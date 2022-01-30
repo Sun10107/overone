@@ -1,6 +1,4 @@
-package overone.com.lessons.les_4;
-
- java.util.Scanner;
+ package overone.com.lessons.les_4;
 
 public class les5 {
 
@@ -17,13 +15,8 @@ public class les5 {
          }
          c++;
      }
-
-         System.out.println(" Summa chetn"+ sum1);
-         System.out.println(" Summa  no chetn"+ sum2);
-         System.out.println(" Summa all numer"+(sum1+sum2) ;
-
-
- }
-
-}
+     System.out.println(" Summa ch"+ sum1);
+     System.out.println(" Summa  no ch"+ sum2);
+     System.out.println(" Summa all num"+ (sum1+sum2));
+ }  }
 
