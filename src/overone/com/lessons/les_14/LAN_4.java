@@ -1,7 +1,7 @@
 package overone.com.lessons.les_14;
 
-import java.util.Scanner;
 import java.util.Arrays;
+import java.util.Scanner;
 
 
 public class LAN_4 {
@@ -30,20 +30,14 @@ public class LAN_4 {
         System.out.print(maximum + " " + minimum);
         {
 
-                Arrays.sort(arrays);
-                System.out.println(Arrays.toString(arrays));
+            Arrays.sort(arrays);
+            System.out.println(Arrays.toString(arrays));
             }
 
 
         System.out.println("we are looking for a number in an array"+number+". Index number"+number);
 
     }
-
-
-
-
-
-
 }
 
 
